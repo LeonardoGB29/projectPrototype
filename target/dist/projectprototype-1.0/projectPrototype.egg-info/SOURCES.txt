@@ -1,0 +1,9 @@
+app.py
+setup.py
+projectPrototype.egg-info/PKG-INFO
+projectPrototype.egg-info/SOURCES.txt
+projectPrototype.egg-info/dependency_links.txt
+projectPrototype.egg-info/namespace_packages.txt
+projectPrototype.egg-info/requires.txt
+projectPrototype.egg-info/top_level.txt
+projectPrototype.egg-info/zip-safe

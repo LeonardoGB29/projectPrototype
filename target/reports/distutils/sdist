@@ -1,0 +1,40 @@
+running clean
+'build\temp.win-amd64-cpython-312' does not exist -- can't clean it
+'build\lib' does not exist -- can't clean it
+'build\bdist.win-amd64' does not exist -- can't clean it
+'build\scripts-3.12' does not exist -- can't clean it
+running sdist
+running egg_info
+creating projectPrototype.egg-info
+writing projectPrototype.egg-info\PKG-INFO
+writing dependency_links to projectPrototype.egg-info\dependency_links.txt
+writing namespace_packages to projectPrototype.egg-info\namespace_packages.txt
+writing requirements to projectPrototype.egg-info\requires.txt
+writing top-level names to projectPrototype.egg-info\top_level.txt
+writing manifest file 'projectPrototype.egg-info\SOURCES.txt'
+reading manifest file 'projectPrototype.egg-info\SOURCES.txt'
+writing manifest file 'projectPrototype.egg-info\SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+creating projectprototype-1.0
+creating projectprototype-1.0\projectPrototype.egg-info
+copying files to projectprototype-1.0...
+copying app.py -> projectprototype-1.0
+copying setup.py -> projectprototype-1.0
+copying projectPrototype.egg-info\PKG-INFO -> projectprototype-1.0\projectPrototype.egg-info
+copying projectPrototype.egg-info\SOURCES.txt -> projectprototype-1.0\projectPrototype.egg-info
+copying projectPrototype.egg-info\dependency_links.txt -> projectprototype-1.0\projectPrototype.egg-info
+copying projectPrototype.egg-info\namespace_packages.txt -> projectprototype-1.0\projectPrototype.egg-info
+copying projectPrototype.egg-info\requires.txt -> projectprototype-1.0\projectPrototype.egg-info
+copying projectPrototype.egg-info\top_level.txt -> projectprototype-1.0\projectPrototype.egg-info
+copying projectPrototype.egg-info\zip-safe -> projectprototype-1.0\projectPrototype.egg-info
+copying projectPrototype.egg-info\SOURCES.txt -> projectprototype-1.0\projectPrototype.egg-info
+Reading configuration from projectprototype-1.0\setup.cfg
+Adding new section [egg_info] to projectprototype-1.0\setup.cfg
+Setting egg_info.tag_build to '' in projectprototype-1.0\setup.cfg
+Setting egg_info.tag_date to 0 in projectprototype-1.0\setup.cfg
+Writing projectprototype-1.0\setup.cfg
+creating dist
+Creating tar archive
+removing 'projectprototype-1.0' (and everything under it)

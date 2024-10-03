@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: projectPrototype
+Version: 1.0
+Summary: Sistema para gestionar proceedings de eventos academicos.
+Home-page: https://github.com/LeoGB29/projectPrototype
+Author: 
+Author-email: 
+Maintainer: 
+Maintainer-email: 
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python
+Requires-Dist: Flask
+Requires-Dist: Flask-SQLAlchemy
+
+Este proyecto facilita la publicacion, revision y gestion de trabajos para los eventos academicos.
